@@ -1,0 +1,103 @@
+C:\Users\jubayer\Documents\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jubayer\Documents\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.Calculator.resources
+C:\Users\jubayer\Documents\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+C:\Users\jubayer\Documents\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jubayer\Documents\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jubayer\Documents\Visual Studio 2010\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\jubayer\Documents\Visual Studio 2010\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\jubayer\Documents\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\jubayer\Documents\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Users\jubayer\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\jubayer\Desktop\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\jubayer\Desktop\Calculator\Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jubayer\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.Calculator.resources
+C:\Users\jubayer\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+C:\Users\jubayer\Desktop\Calculator\Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jubayer\Desktop\Calculator\Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jubayer\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\jubayer\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+D:\study\Project\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+D:\study\Project\Calculator\Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\study\Project\Calculator\Calculator\obj\x86\Debug\Calculator.Calculator.resources
+D:\study\Project\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+D:\study\Project\Calculator\Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\study\Project\Calculator\Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mizan\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\Mizan\Desktop\Calculator\Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mizan\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.Calculator.resources
+C:\Users\Mizan\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+C:\Users\Mizan\Desktop\Calculator\Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mizan\Desktop\Calculator\Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mizan\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Mizan\Desktop\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Mizan\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+I:\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+I:\Calculator\Calculator\obj\x86\Debug\Calculator.csprojResolveAssemblyReference.cache
+I:\Calculator\Calculator\obj\x86\Debug\Calculator.Calculator.resources
+I:\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+I:\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+I:\Calculator\Calculator\bin\Debug\Calculator.exe
+I:\Calculator\Calculator\bin\Debug\Calculator.pdb
+I:\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Users\MUSABBIR\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\MUSABBIR\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Users\MUSABBIR\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\MUSABBIR\Desktop\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\MUSABBIR\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\MUSABBIR\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.Calculator.resources
+C:\Users\MUSABBIR\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+C:\Users\MUSABBIR\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+D:\project\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+D:\project\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+D:\project\Cal\Calculator\obj\x86\Debug\Calculator.exe
+D:\project\Cal\Calculator\obj\x86\Debug\Calculator.pdb
+D:\project\Cal\Calculator\bin\Debug\Calculator.exe
+D:\project\Cal\Calculator\bin\Debug\Calculator.pdb
+D:\project\Cal\Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\project\Cal\Calculator\obj\x86\Debug\Calculator.Calculator.resources
+D:\project\Cal\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+D:\project\Cal\Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\project\Cal\Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Ershad\Cal\Calculator\obj\x86\Debug\Calculator.exe
+D:\Ershad\Cal\Calculator\obj\x86\Debug\Calculator.pdb
+D:\Ershad\Cal\Calculator\bin\Debug\Calculator.exe
+D:\Ershad\Cal\Calculator\bin\Debug\Calculator.pdb
+D:\Ershad\Cal\Calculator\obj\x86\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\Ershad\Cal\Calculator\obj\x86\Debug\Calculator.Calculator.resources
+D:\Ershad\Cal\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+D:\Ershad\Cal\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+D:\Ershad\Main\Cal\Calculator\obj\x86\Debug\Calculator.exe
+D:\Ershad\Main\Cal\Calculator\obj\x86\Debug\Calculator.pdb
+D:\Ershad\Main\Cal\Calculator\bin\Debug\Calculator.exe
+D:\Ershad\Main\Cal\Calculator\bin\Debug\Calculator.pdb
+D:\Ershad\Main\Cal\Calculator\obj\x86\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\Ershad\Main\Cal\Calculator\obj\x86\Debug\Calculator.Calculator.resources
+D:\Ershad\Main\Cal\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+D:\Ershad\Main\Cal\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+D:\Ershad\Main\Cal\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Pro100Mukhammed\Desktop\C_Tasks\Cal\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Pro100Mukhammed\Desktop\C_Tasks\Cal\Calculator\bin\Debug\Calculator.exe
+C:\Users\Pro100Mukhammed\Desktop\C_Tasks\Cal\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Pro100Mukhammed\Desktop\C_Tasks\Cal\Calculator\bin\Debug\mscorlib.dll
+C:\Users\Pro100Mukhammed\Desktop\C_Tasks\Cal\Calculator\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\Pro100Mukhammed\Desktop\C_Tasks\Cal\Calculator\bin\Debug\sortkey.nlp
+C:\Users\Pro100Mukhammed\Desktop\C_Tasks\Cal\Calculator\bin\Debug\sorttbls.nlp
+C:\Users\Pro100Mukhammed\Desktop\C_Tasks\Cal\Calculator\bin\Debug\big5.nlp
+C:\Users\Pro100Mukhammed\Desktop\C_Tasks\Cal\Calculator\bin\Debug\bopomofo.nlp
+C:\Users\Pro100Mukhammed\Desktop\C_Tasks\Cal\Calculator\bin\Debug\ksc.nlp
+C:\Users\Pro100Mukhammed\Desktop\C_Tasks\Cal\Calculator\bin\Debug\prc.nlp
+C:\Users\Pro100Mukhammed\Desktop\C_Tasks\Cal\Calculator\bin\Debug\prcp.nlp
+C:\Users\Pro100Mukhammed\Desktop\C_Tasks\Cal\Calculator\bin\Debug\xjis.nlp
+C:\Users\Pro100Mukhammed\Desktop\C_Tasks\Cal\Calculator\bin\Debug\normidna.nlp
+C:\Users\Pro100Mukhammed\Desktop\C_Tasks\Cal\Calculator\bin\Debug\normnfc.nlp
+C:\Users\Pro100Mukhammed\Desktop\C_Tasks\Cal\Calculator\bin\Debug\normnfd.nlp
+C:\Users\Pro100Mukhammed\Desktop\C_Tasks\Cal\Calculator\bin\Debug\normnfkc.nlp
+C:\Users\Pro100Mukhammed\Desktop\C_Tasks\Cal\Calculator\bin\Debug\normnfkd.nlp
+C:\Users\Pro100Mukhammed\Desktop\C_Tasks\Cal\Calculator\obj\x86\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Pro100Mukhammed\Desktop\C_Tasks\Cal\Calculator\obj\x86\Debug\Calculator.Calculator.resources
+C:\Users\Pro100Mukhammed\Desktop\C_Tasks\Cal\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+C:\Users\Pro100Mukhammed\Desktop\C_Tasks\Cal\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Pro100Mukhammed\Desktop\C_Tasks\Cal\Calculator\obj\x86\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Pro100Mukhammed\Desktop\C_Tasks\Cal\Calculator\obj\x86\Debug\Calculator.csproj.CopyComplete
+C:\Users\Pro100Mukhammed\Desktop\C_Tasks\Cal\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\Pro100Mukhammed\Desktop\C_Tasks\Cal\Calculator\obj\x86\Debug\Calculator.pdb
